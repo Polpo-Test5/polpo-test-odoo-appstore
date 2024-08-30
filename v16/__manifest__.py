@@ -1,6 +1,6 @@
 {
     'name': 'Nombre del Módulo',
-    'version': '13.0.1.0.0',
+    'version': '16.0.1.0.0',
     'category': 'Categoría',
     'summary': 'Resumen de las características del módulo.',
     'description': 'Descripción detallada del módulo.',
@@ -13,4 +13,6 @@
     ],
     'installable': True,
     'application': True,
+    'price': 49.99,
+    'currency': 'USD',
 }
